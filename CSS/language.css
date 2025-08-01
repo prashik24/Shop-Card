@@ -1,0 +1,115 @@
+
+.langauage{
+    width: 110px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-left: 13px;
+    }
+.flag{
+    width: 23px;
+    height: 17px;
+    background-image: url(../image/flag1.jpeg);
+    background-size:cover;
+    margin-top: -4px;
+    margin-right: 6px;
+}
+#d{ 
+    height: 12PX;
+    width: 20PX;
+    margin-right: 5px;
+    margin-bottom: 7px;
+}
+
+#lang-main1{
+    height: 370px;
+    width:220px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.lang-type1{
+    font-size: 16px;
+    font-weight: 250;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-left: 13px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.lang-type{
+    font-size: 14px;
+    font-weight: 250;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 13px;
+   
+}
+#lang-a{
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 23px;
+    margin-top: 15px;
+    margin-bottom: 16px;
+    color: #321fd6;
+} 
+.lang-hr{
+margin-left: 24px;
+margin-right: px;
+border: 0.2px solid  rgb(174, 179, 179);;
+height: 0px; /* Adjust the height as needed */
+transform: rotate(0deg);
+width: 180px;
+filter: blur(0); /* Adjust the blur intensity */
+visibility:0%;
+
+} 
+.lang-flag{
+width: 18px;
+height: 12px;
+background-image: url(../image/flag1.jpeg);
+background-size:cover;
+margin-top: 15px;
+}
+
+#lang-flag{
+display: flex;
+justify-content:center;
+align-items:center;
+
+}
+#lang-p{
+font-size: 13.5px;
+margin-top: 14px;
+margin-left:4px;
+white-space: nowrap;
+  line-height: 1px;
+}
+.lang-type:hover{
+color: #42A5F5;
+text-decoration: underline;
+}
+.lang-type1:hover{
+color: #42A5F5;
+text-decoration: underline;
+}
+#lang-a:hover{
+
+text-decoration: underline;
+text-decoration-color: #42A5F5;
+
+}
+
+
+input[type="radio"]{
+accent-color: #42A5F5;
+}
+
+input[type="radio"]:hover{
+accent-color: #42A5F5;
+}
