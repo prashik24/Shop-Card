@@ -1,0 +1,249 @@
+footer {
+  margin-top: 1300px;
+}
+.footermain {
+  height: 767px;
+  width: 100%;
+  background-color: #131a22;
+  position: static;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.fotter1 {
+  height: 49px;
+  color: #ffffff;
+  background: #232f3f;
+}
+
+.h5 {
+  font-size: 13px;
+  text-align: center;
+  color: #dddddd;
+  padding: 13px 0px 13px 0px;
+}
+
+.fotter1:hover {
+  opacity: 60%;
+}
+
+.fotter2 {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.fotterA {
+  height: 451.9px;
+  width: 242.44px;
+
+  margin-top: 240px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  font-size: 16px;
+}
+
+.afotter {
+  color: #dddddd;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.afotter:hover {
+  text-decoration: underline;
+}
+
+.h4 {
+  margin-top: 5px;
+  color: #ffffff;
+  font-size: 16px;
+  margin-left: 20px;
+  font-weight: 700;
+}
+
+.fotter3 {
+  height: 70px;
+  width: 100%;
+  border-top: 0.5px solid grey;
+  margin-top: 100px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  background-color: 50%;
+  padding-top: 30px;
+}
+
+.image {
+  height: 55px;
+  width: 110px;
+  background-image: url("../image/ShopCard-logo\ \(2\).png");
+  background-size: cover;
+  background-position: 50%;
+}
+
+.fbutton {
+  height: 34px;
+  width: 105px;
+  border-radius: 4px;
+  font-size: 40px;
+  color: #dddddd;
+  border: 1px solid #cccccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fotter4 {
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.fotter4a {
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.size {
+  font-size: 15px;
+}
+
+#selector {
+  background-color: transparent;
+  text-align: center;
+  color: #cccccc;
+  border: none;
+}
+
+.f4 {
+  font-size: 12px;
+  color: #dddddd;
+  text-decoration: none;
+  padding: 4px 8px 0px 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.f4:hover {
+  text-decoration: underline;
+}
+
+.gaps {
+  height: 0px;
+}
+
+.fotter5main {
+  height: 190px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.fotter5 {
+  background-color: #0f1111;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa {
+  height: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 130px;
+
+  gap: 30px;
+}
+
+.faa {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 140px;
+  padding-bottom: 40px;
+  gap: 30px;
+}
+
+.fb {
+  height: 30px;
+  width: 150px;
+  color: #dddddd;
+  display: flex;
+  flex-direction: column;
+}
+
+.fb:hover {
+  text-decoration: underline;
+}
+
+h6 {
+  font-size: 13px;
+  font-weight: 500;
+  color: #dddddd;
+  padding-bottom: 1px;
+}
+
+.fcon {
+  text-decoration: none;
+  color: #999999;
+  font-size: 12px;
+  font-weight: 200;
+  padding: 1px;
+}
+
+/* end of fotter*/
+.endf {
+  height: 140px;
+  background-color: #0f1111;
+  display: flex;
+  flex-direction: column;
+}
+
+.endff {
+  height: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  color: #dddddd;
+  gap: 18px;
+}
+
+.endp:hover {
+  text-decoration: underline;
+}
+
+.endfff {
+  height: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  color: #dddddd;
+  margin-top: 2px;
+  padding-bottom: 100px;
+}
