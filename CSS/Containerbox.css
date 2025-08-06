@@ -1,0 +1,258 @@
+* {
+  margin: 0;
+  border: none;
+}
+
+body {
+  background-color: grey;
+}
+
+.main2 {
+  display: flex;
+  position: relative;
+  top: -350px;
+  justify-content: space-evenly;
+}
+
+.Boxcon {
+  display: flex;
+  flex-direction: column;
+  height: 450px;
+  width: 355px;
+  background-color: white;
+}
+
+.Boxs {
+  height: 150px;
+  width: 130px;
+  background-color: white;
+  margin: 10px;
+}
+
+.Box1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.b1 {
+  background-image: url("../image/box1.jpg");
+}
+.b2 {
+  background-image: url("../image/box2.jpg");
+}
+.b3 {
+  background-image: url("../image/box3.jpg");
+}
+.b4 {
+  background-image: url("../image/box4.jpg");
+}
+.b5 {
+  background-image: url("../image/box5.jpg");
+}
+.b6 {
+  background-image: url("../image/box6.jpg");
+}
+.b7 {
+  background-image: url("../image/box7.jpg");
+}
+.b8 {
+  background-image: url("../image/box8.jpg");
+}
+.b9 {
+  background-image: url("../image/box9.jpg");
+}
+.b10 {
+  background-image: url("../image/box10.jpg");
+}
+.b11 {
+  background-image: url("../image/box11.jpg");
+}
+.b12 {
+  background-image: url("../image/box12.jpg");
+}
+
+.b13 {
+  background-image: url("../image/box13.jpg");
+}
+.b14 {
+  background-image: url("../image/box14.jpg");
+}
+.b15 {
+  background-image: url("../image/box15.jpg");
+}
+.b16 {
+  background-image: url("../image/box16.jpg");
+}
+.b17 {
+  background-image: url("../image/box17.jpg");
+}
+.b18 {
+  background-image: url("../image/box18.jpg");
+}
+.b19 {
+  background-image: url("../image/box19.jpg");
+}
+.b20 {
+  background-image: url("../image/box20.jpg");
+}
+.b21 {
+  background-image: url("../image/box21.jpg");
+}
+.b22 {
+  background-image: url("../image/box22.jpg");
+}
+.b23 {
+  background-image: url("../image/box23.jpg");
+}
+.b24 {
+  background-image: url("../image/box24.jpg");
+}
+.b25 {
+  background-image: url("../image/box25.jpg");
+}
+.b26 {
+  background-image: url("../image/box26.jpg");
+}
+.b27 {
+  background-image: url("../image/box27.jpg");
+}
+.b28 {
+  background-image: url("../image/box28.jpg");
+}
+
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6,
+.b7,
+.b8,
+.b9,
+.b10,
+.b11,
+.b12,
+.b13,
+.b14,
+.b15,
+.b16,
+.b17,
+.b18,
+.b19,
+.b20,
+.b21,
+.b22,
+.b23,
+.b24,
+.b25,
+.b26,
+.b27,
+.b28 {
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.pp {
+  height: 30px;
+  text-align:left;
+  font-size: 15px;
+}
+
+.a1 {
+  
+  text-decoration: none;
+  color: dodgerblue;
+  padding-left: 20px;
+  font-size: 13px;
+}
+
+.Boxcon1,
+.Boxcon2 {
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+}
+
+.h2 {
+  text-align: left;
+  font-weight: 700;
+  font-size: 21px;
+  margin-left: 3px;
+  margin-right: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  margin-top: 13px;
+}
+
+/* Sign box */
+.signbox1 {
+  height: 150px;
+  width: 355px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signBox {
+  background-color: transparent;
+}
+
+.button {
+  background-color: #42A5F5;;
+  width: 255px;
+  height: 33px;
+  border-radius: 9px;
+  margin-top: 25px;
+}
+
+.signbox2 {
+  height: 23px;
+  width: 100%;
+  background-color: transparent;
+}
+
+.signbox3 {
+  height: 283px;
+  width: 100%;
+  background-color: white;
+}
+
+.signbox4 {
+  height: 200px;
+  width: 100%;
+  background-image: url("../image/sign.box1.jpg");
+  background-size: cover;
+  background-position: 50%;
+}
+
+.p3 {
+  margin-left: 3px;
+  margin-right: 9px;
+  font-size: 13px;
+  text-align: left;
+}
+
+.p4 {
+  color: red;
+  text-align: left;
+  margin-left: 14px;
+  margin-top: 5px;
+}
+
+.p5 {
+  text-align: end;
+  padding-right: 5px;
+  text-decoration: line-through;
+  margin-top: -24px;
+}
+.spcae {
+  height: 17px;
+  width: 100%;
+  background-color: transparent;
+}
