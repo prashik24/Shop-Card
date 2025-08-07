@@ -1,0 +1,130 @@
+
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
+}
+.navbar {
+  height: 60px;
+  background-color: #0f1111;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.navlogo {
+  height: 55px;
+  width: 110px;
+}
+.logo {
+  background-image: url("../image/ShopCard-logo\ \(2\).png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 55px;
+  width: 110px;
+}
+
+.border {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border: 2px solid white;
+}
+.address {
+  width: 110px;
+  height: 50px;
+}
+.p11 {
+  font-size: 12px;
+  color: #cccccc;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.p22 {
+  font-size: 14px;
+  color: #ffffff;
+  text-transform: capitalize;
+  margin-left: 3px;
+}
+.add1 {
+  display: flex;
+  align-items: center;
+}
+.navsearch {
+  display: flex;
+  justify-content: space-evenly;
+  width: 620px;
+  height: 40px;
+  background-color: lightpink;
+  border-radius: 4px;
+  border: none;
+}
+.selector {
+  background-color: #f3f3f3;
+  width: 50px;
+  text-align: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border: none;
+  font-size: 0.8em;
+}
+.border1:hover {
+  border: 3px solid #42a5f5;
+}
+.search-input {
+  width: 100%;
+  font-size: 1rem;
+  border: none;
+}
+.search-icon {
+  width: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  background-color: #90caf9;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  color: #0f1111;
+}
+.navreturn {
+  height: 50px;
+  width: 125px;
+  text-align: center;
+}
+.span {
+  font-size: 0.7rem;
+}
+.navreturn2 {
+  font-size: 0.89rem;
+  font-weight: 700;
+}
+.navreturn1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navcard {
+  width: 110;
+  height: 50px;
+  text-align: center;
+  border: none;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.card {
+  font-size: 35px;
+  font-weight: 1000px;
+  margin-top: 10px;
+  display: flex;
+}
+.card1 {
+  font-size: 0.89rem;
+  font-weight: 700px;
+  justify-self: end;
+  margin-top: 17px;
+}
+
+main {
+  background-color: #cccccc;
+}
