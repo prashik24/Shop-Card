@@ -1,0 +1,42 @@
+/*   Lower Navbar CSS */
+.secondnavbar {
+  height: 39px;
+  display: flex;
+  background-color: #222f3d;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #ffffff;
+  border: none;
+}
+
+.panel {
+  font-size: 0.79rem;
+  font-weight: 600px;
+  text-align: center;
+  color: #ffffff;
+}
+.panel2 p {
+  display: inline;
+  justify-content: space-around;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.panel2 {
+  width: 60%;
+  font-size: 0.9rem;
+  font-weight: 200px;
+}
+.minitv {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 700px;
+}
+
+.border2:hover {
+  padding: 3px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  border: 1.5px solid rgb(247, 240, 240);
+}
