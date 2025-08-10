@@ -1,0 +1,206 @@
+ * {
+      margin: 0;
+      border: none;
+      box-sizing: border-box;
+    }
+    .main-con{
+      display: flex;
+      justify-content: space-evenly;
+      position: relative;
+       top: -360px;
+       margin: 3.5px;
+    }
+    body {
+      background-color: grey;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      height: 410px;
+      width: 346px;
+      background-color: #ffffff;
+      margin: auto;
+    }
+
+    .h2-text {
+      text-align: left;
+      padding-left: 20px;
+      font-weight: 700;
+      font-size: 21px;
+      color: #000;
+     margin-top: 10px;
+
+    }
+
+    .image-text-section {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5px;
+    }
+
+    .main-card {
+      height: 330px;
+      width: 345px;
+      background-color: #ffffff;
+      margin: 0 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .main-img {
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 49.5%;
+      width: 80%;
+      margin-top: 10px;
+    }
+
+    .desc {
+      font-size: 13px;
+      font-weight: 400;
+      text-align: left;
+     align-self: flex-start;
+      margin: 5px 10px 0;
+    }
+       .price-line{
+         align-self: flex-start;
+         margin: 5px 10px 0;
+       }
+
+    .price {
+      font-size: 21px;
+      font-weight: 300;
+      
+      align-self: flex-start;
+    }
+    .price sup {
+        font-size: 11px;
+    }
+   
+     .mrp {
+        font-size: 13px;
+        color: #555;
+        margin-top: 7px;
+            }
+
+    .mrp-value {
+        text-decoration: line-through;
+        color: #777;
+    }
+
+    .thumbnail-row {
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: -90px;
+    }
+    .a-text{
+    text-decoration: none;
+    color: dodgerblue;
+    padding-left: 20px;
+    font-size: 13px;
+    margin-top: 15px;
+    
+  }
+    .thumb {
+      height: 70px;
+      width: 70px;
+      border-radius: 4px;
+      background-color: #ffffff;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      border: 1px solid rgb(153, 143, 143);
+      cursor: pointer;
+      transition: border 0.3s ease;
+    }
+
+    .thumb:hover {
+      border: 1px solid #0a7cd1;
+    }
+
+    .thumb.active {
+      border: 2.5px solid #0A7cd1;
+    }
+
+    .thumb1 {
+      background-image: url("../image/iron1.jpg");
+    }
+
+    .thumb2 {
+      background-image: url("../image/iron2.jpg");
+    }
+
+    .thumb3 {
+      background-image: url("../image/iron3.jpg");
+    }
+
+    .thumb4 {
+      background-image: url("../image/iron4.jpg");
+    }
+
+    .thumb5 {
+      background-image: url("../image/bike1.jpg");
+    }
+
+    .thumb6 {
+      background-image: url("../image/bike2.jpg");
+    }
+
+    .thumb7 {
+      background-image: url("../image/bike3.jpg");
+    }
+
+    .thumb8 {
+      background-image: url("../image/bike4.jpg");
+    }
+
+    .thumb9 {
+      background-image: url("../image/tshirt1.jpg");
+    }
+
+    .thumb10 {
+      background-image: url("../image/tshirt2.jpg");
+    }
+
+    .thumb11 {
+      background-image: url("../image/tshirt3.jpg");
+    }
+
+    .thumb12 {
+      background-image: url("../image/tshirt4.jpg");
+    }
+
+    .thumb13 {
+      background-image: url("../image/bag1.jpg");
+    }
+
+    .thumb14 {
+      background-image: url("../image/bag2.jpg");
+    }
+
+    .thumb15 {
+      background-image: url("../image/bag3.jpg");
+    }
+
+    .thumb16 {
+      background-image: url("../image/bag4.jpg");
+    }
+     .thumb17 {
+      background-image: url("../image/flower5.jpg");
+    }
+     .thumb18 {
+      background-image: url("../image/flower2.jpg");
+    }
+     .thumb19{
+      background-image: url("../image/flower3.jpg");
+    }
+     .thumb20 {
+      background-image: url("../image/flower10.jpg");
+    }
+
+
+    
