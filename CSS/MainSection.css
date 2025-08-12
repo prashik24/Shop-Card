@@ -1,0 +1,112 @@
+
+    
+  .card-shop{
+    margin-top: 13px;
+  }
+     .shop-card{
+    display: flex;
+    justify-content: space-evenly;
+    }
+
+    .box-sc1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    }
+    .box-sc{
+    height: 150px;
+    width: 150px;
+    background-color:white;
+
+    }
+    
+    .sc1, .sc2, .sc3, .sc4 {
+      height: 100px;
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      margin-bottom: 5px;
+    }
+    .sc5 ,.sc6 ,.sc7 ,.sc8 {
+     height: 120px;
+     width: 145px;
+       background-size: contain;     
+  background-position: center; 
+  background-repeat: no-repeat;
+   
+     
+   
+    }
+       .sc9 ,.sc10 ,.sc11 ,.sc12 {
+     height: 90px;
+     width: 145px;
+       background-size: contain;      
+  background-position: center;  
+  background-repeat: no-repeat;
+   
+     
+   
+    }
+
+    .sc1 {
+      background-image: url("../image/femaldress1.jpg");
+    }
+
+    .sc2 {
+      background-image: url("../image/femaldress2.jpg");
+    }
+
+    .sc3 {
+      background-image: url("../image/femaldress3.jpg");
+    }
+  .sc4 {
+      background-image: url("../image/femaldress4.jpg");
+    }
+    .sc5 {
+      background-image: url("../image/newbag1.jpg");
+    }
+     .sc6{
+      background-image: url("../image/newbag2.jpg");
+    }
+     .sc7 {
+      background-image: url("../image/newbag3.jpg");
+    }
+     .sc8 {
+      background-image: url("../image/newbag4.jpg");
+    }
+       .sc9 {
+      background-image: url("../image/short1.jpg");
+    }
+       .sc10{
+      background-image: url("../image/short2.jpg");
+    }
+       .sc11 {
+      background-image: url("../image/short3.jpg");
+    }
+       .sc12{
+      background-image: url("../image/short4.jpg");
+    }
+   .textp{
+    font-size: 15px;
+    text-align: left;
+   }
+   
+    .a-text1{
+    text-decoration: none;
+    color: dodgerblue;
+    padding-left: 20px;
+    font-size: 13px;
+    margin-top: 12px;
+    
+  }
+    .a-text11{
+    text-decoration: none;
+    color: dodgerblue;
+    padding-left: 20px;
+    font-size: 13px;
+    margin-top: -7px;
+    
+  }
+
+    
