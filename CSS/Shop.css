@@ -1,0 +1,49 @@
+/*  for shopcom*/
+.shopcon {
+  position: relative;
+  top: -330px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.box {
+  height: 400px;
+  background-color: #ffffff;
+  width: 21.3%;
+  padding-top: 2px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+}
+
+.image1 {
+  height: 350px;
+  align-content: center;
+  width: 90%;
+  background-image: url("../image/sofa.webp");
+  background-size: cover;
+}
+.image2 {
+  height: 350px;
+  align-content: center;
+  width: 90%;
+  background-image: url("../image/kitchen.jpg");
+  background-size: cover;
+}
+.image3 {
+  height: 350px;
+  align-content: center;
+  width: 90%;
+  background-image: url("../image/machin.webp");
+  background-size: cover;
+}
+.image4 {
+  height: 350px;
+  align-content: center;
+  width: 90%;
+  background-image: url("../image/dress.png");
+  background-size: cover;
+}
+h2 {
+  text-align: center;
+  padding: 8px;
+}
