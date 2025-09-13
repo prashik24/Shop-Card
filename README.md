@@ -7,4 +7,4 @@ how it is working here
 hello eveyone how arre you position 
 yes yash better prashik humane 
 
-why u are   pranay how arre you are doing 
+why u are   pranay how arre you are doing . power of know things 
