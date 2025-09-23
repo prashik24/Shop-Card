@@ -16,3 +16,4 @@ wasting time  people know everythings.
 yes main help me 
 how are u bro 
 hello every anything is fien sab bakwas karo tum bas karo  hello ecveryone how are u 
+ what are u doing 
