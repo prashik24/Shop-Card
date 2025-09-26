@@ -11,6 +11,7 @@ how are you
 why u are   pranay how arre you are doing . power of know things 
 
 presahik bhbbhjjbbfdgb 
+how to calcute bd 
 
 prashik  sunnys springs dale school bhandara  best jounery of life 10 .
 wasting time  people know everythings.
