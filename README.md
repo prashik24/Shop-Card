@@ -13,7 +13,7 @@ why u are   pranay how arre you are doing . power of know things
 presahik bhbbhjjbbfdgb go to hell bro  hi every one hopw are y guys 
 how to calcute bd 
 
-prashik  sunnys springs dale school bhandara  best jounery of life 10 .
+prashik  sunnys springs dale school bhandara  best jounery of life 10 . hello evberyone 
 wasting time  people know everythings.
 yes main help me  hello bbb
 how are u bro 
