@@ -10,7 +10,7 @@ how are you
 
 why u are   pranay how arre you are doing . power of know things 
  hii bro how are u cutie
-presahik bhbbhjjbbfdgb go to hell bro  hi every one hopw are y guys 
+presahik bhbbhjjbbfdgb go to hell bro  hi every one hopw are y guys  hwllosnjxjsd
 how to calcute bd 
 
 prashik  sunnys springs dale school bhandara  best jounery of life 10 . hello evberyone 
