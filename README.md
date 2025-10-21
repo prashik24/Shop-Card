@@ -1,7 +1,7 @@
 hello everyone how are u ?
 make   simple  easy and undestanding 
  i will make sure .
-hellow everyone how are u 
+hellow everyone how are u  hello are u bro
 sab thik hai na 
 how it is working here  how are you baby
 hello eveyone how arre you position 
