@@ -3,8 +3,8 @@ make   simple  easy and undestanding
  i will make sure .
 hellow everyone how are u  hello are u bro
 sab thik hai na 
-how it is working here  how are you baby
-hello eveyone how arre you position 
+how it is working here  how are  you baby
+hello eveyone how arre you position  sAb kaisa hai brooo....
 yes yash better prashik humane  happy birthday to bro
 how are you 
 hello everyone
