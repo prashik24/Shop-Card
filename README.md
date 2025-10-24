@@ -1,4 +1,4 @@
-hello hello everyone how are u ?
+hhello hello everyone how are u ?
 make   simple  easy and undestanding 
  i will make sure .
 hellow everyone how are u  hello are u bro
@@ -11,7 +11,7 @@ hello everyone
 why u are   pranay how arre you are doing . power of know things 
  hii bro how are u cutie
 presahik bhbbhjjbbfdgb go to hell bro  hi every one hopw are y guys  hwllosnjxjsd
-how to calcute bd 
+how to calcute bd hello bye ghar ja raha hauib
 
 prashik  sunnys springs dale school bhandara  best jounery of life 10 . hello evberyone 
 wasting time  people know everythings.
