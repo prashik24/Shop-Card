@@ -5,7 +5,7 @@ hellow everyone how are u  hello are u bro
 sab thik hai na 
 how it is working here  how are  you baby
 hello eveyone how arre you position  sAb kaisa hai brooo....
-yes yash better prashik humane  happy birthday to bro
+yes yash better prashik humane  happy birthday to bro hello everyone bro 
 how are you 
 hello everyone
 why u are   pranay how arre you are doing . power of know things 
