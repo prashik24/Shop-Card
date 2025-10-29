@@ -3,7 +3,7 @@ make   simple  easy and undestanding
  i will make sure .
 hellow everyone how are u  hello are u bro
 sab thik hai na 
-how it is working here  how are  you baby
+how it is working here  how are  you baby kya haua bro tension kyu le rahe ho aap
 hello eveyone how arre you position  sAb kaisa hai brooo....
 yes yash better prashik humane  happy birthday to bro hello everyone bro 
 how are you 
