@@ -33,6 +33,8 @@ This project is ideal for **beginners in web development** who want to sharpen t
 * A **language selector** to change the site’s display language
 
   <img width="1901" height="562" alt="image" src="https://github.com/user-attachments/assets/b053ab8d-eee1-4aaa-9174-dcda0e45add4" />
+  <img width="297" height="497" alt="image" src="https://github.com/user-attachments/assets/209b13cf-93d1-4aa8-9b2a-d652006d5200" />
+
 
   
 
