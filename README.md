@@ -22,8 +22,9 @@ This project is ideal for **beginners in web development** who want to sharpen t
 
 * Header with **logo, search bar, and navigation links**
 * Responsive design that works seamlessly on both desktop and mobile
+  
+   <img width="1905" height="127" alt="image" src="https://github.com/user-attachments/assets/71c50f80-c4a4-4d2f-90bc-b01239412b21" />
 
-  <img width="1897" height="117" alt="image" src="https://github.com/user-attachments/assets/94794ee8-98e2-415d-85ae-8db7a94c9b16" />
 
 ---
 
