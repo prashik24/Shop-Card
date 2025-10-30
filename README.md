@@ -88,7 +88,8 @@ This project is ideal for **beginners in web development** who want to sharpen t
 * Links similar to e-commerce websites (About, Help, Terms, etc.)
 * Contact info and policy sections
 
-  <img width="1890" height="855" alt="image" src="https://github.com/user-attachments/assets/c57f7233-6d4d-4468-8177-e4362cc5cb64" />
+  <img width="1886" height="853" alt="image" src="https://github.com/user-attachments/assets/a2ea165c-d1ce-4275-9153-c4691cf46090" />
+
 
 ---
 
