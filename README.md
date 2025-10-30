@@ -44,10 +44,11 @@ This project is ideal for **beginners in web development** who want to sharpen t
 
 * User registration page with input validation
 
+   <img width="1892" height="655" alt="image" src="https://github.com/user-attachments/assets/41da091c-d6e0-4a34-bcda-4cd6ade18a04" />
+
   <img width="620" height="574" alt="image" src="https://github.com/user-attachments/assets/c11eaf60-c90a-474f-bba1-fba398ffdf97" />
 
-  <img width="633" height="580" alt="image" src="https://github.com/user-attachments/assets/66d1aa45-4d5b-448e-8aa3-bb6b2dac6cbb" />
-  ![Uploading image.png…]()
+
 
 
 ---
